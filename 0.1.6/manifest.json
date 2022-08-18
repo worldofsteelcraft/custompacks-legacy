@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Experimental UI Changes",
+        "name": "WoSC UI Changes Beta Version",
+        "uuid": "dda52d03-6fd6-4a18-8c3c-97cd5a1b0daa",
+        "version": [0, 1, 6],
+        "min_engine_version": [ 1, 16, 100 ]
+    },
+    "modules": [
+        {
+            "description": "Experimental UI Changes",
+            "type": "resources",
+            "uuid": "8db29178-7742-4565-b4af-9f58080b16ec",
+            "version": [0, 1, 6]
+        }
+    ]
+}
